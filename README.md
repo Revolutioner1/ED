@@ -30,5 +30,4 @@ If you find this repository useful, please consider citing the following paper:
   journal={arXiv preprint arXiv:2311.13811​​},
   year={2025}
 }
-
 ```

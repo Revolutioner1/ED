@@ -1,5 +1,6 @@
 # ED(Education Distillation)
 This repo covers the implementation of the following KSEM 2025 paper:
+
 Education Distillation: Let the Model Learn in the School
 
 ## Installation
